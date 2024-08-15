@@ -12,7 +12,7 @@
 ## Best Premuim | Modded site for Games & Apps
 id | Name | Website | Status |
 -- |:--:|--|:--:|
-<sup>1</sup> | `apkmody` | **https://apkmody.io** |✔️|
+<sup>1</sup> | `apkmody` | **https://apkmody.mobi** |✔️|
 <sup>2</sup> | `modcombo` | **https://modcombo.com** |✔️|
 <sup>3</sup> | `happymod` | **https://happymod.com** |✔️|
 <sup>4</sup> | `modyolo` | **https://modyolo.com** |✔️|
